@@ -1,2 +1,2 @@
-# africa-is-everywhere
+# Africa is everywhere
 Our new Portuguese blog 
