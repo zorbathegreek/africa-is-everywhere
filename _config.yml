@@ -7,3 +7,5 @@ description: "Thoughts about Portugal."
 
 # Build settings
 remote_theme: jekyll/minima
+
+markdown: kramdown
